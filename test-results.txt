@@ -1,0 +1,20 @@
+PASS 20 of 40 seats gives 50 percent
+PASS board 5 passengers
+PASS reject overcapacity without state change
+PASS reject zero boarding
+PASS reject negative boarding
+PASS reject passenger total above capacity
+PASS reject capacity below current load
+PASS reject negative distance
+PASS reject NaN distance
+PASS reject infinite distance
+PASS reject blank driver
+PASS reject null registration
+PASS dispatch changes availability
+PASS reject repeated dispatch
+PASS reject boarding after dispatch
+PASS default constructor values
+PASS reject empty bus dispatch
+PASS reject zero distance dispatch
+PASS reject invalid constructor capacity
+19 checks passed.

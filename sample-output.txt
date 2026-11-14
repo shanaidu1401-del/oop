@@ -1,0 +1,38 @@
+FLEET DISPATCH DEMONSTRATION
+Spare bus: PTEST 02
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Registration: PTEST 01
+Driver: Ravi
+Route: Tasek Gelugor to Factory A
+Passengers: 20/40
+Distance: 25.0 km
+Occupancy: 50.0%
+Available: true
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Passengers to board: Boarding successful.
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Trip distance in km: Distance updated to 30.0 km.
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Registration: PTEST 01
+Driver: Ravi
+Route: Tasek Gelugor to Factory A
+Passengers: 25/40
+Distance: 30.0 km
+Occupancy: 62.5%
+Available: true
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Bus dispatched. Availability is now false.
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Dispatch rejected. Check availability, passengers and distance.
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Passengers to board: Boarding rejected. Check availability, count and seats.
+
+1 View bus | 2 Board passengers | 3 Set distance | 4 Dispatch | 0 Exit
+Program ended.
